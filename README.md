@@ -10,7 +10,7 @@
 
 ## Usage
 heroku で公開しています。
-とりあえず見て触ってみたい方は以下リンクから飛べます \\
+とりあえず見て触ってみたい方は以下リンクから飛べます  
 [https://hsv-practice.herokuapp.com/](https://hsv-practice.herokuapp.com/)
 
 
